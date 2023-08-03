@@ -1,6 +1,6 @@
 function iLoveACA() {
     const printer = document.getElementById('printer')
-    const message = "ACS just taught me about continuous integration and continuous development"
+    const message = "ACA just taught me about continuous integration and continuous development"
     
     printer.innerHTML = message
 
